@@ -7,11 +7,11 @@ pandas==2.1.1             # Use a slightly older version for numpy compatibility
 scikit-learn==1.5.2
 sentence-transformers==3.2.0
 streamlit==1.39.0
-tensorflow==2.11.0 
-keras==2.11.0
+tensorflow==2.8.0 
+keras==2.8.0
 textblob==0.18.0.post0
 torch==2.4.1
-transformers==4.45.2
+transformers==4.13.0
 umap-learn==0.5.6
 
 
