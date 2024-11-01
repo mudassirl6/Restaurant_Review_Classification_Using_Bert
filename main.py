@@ -11,7 +11,7 @@ tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
 # Load the DataFrame
 try:
-    df = pd.read_csv("Final_Dataset.csv")
+    df = pd.read_csv("Final_dataset.csv")
 except Exception as e:
     st.error(f"Error loading data: {e}")
     st.stop()
