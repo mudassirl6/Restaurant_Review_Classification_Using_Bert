@@ -12,5 +12,4 @@ textblob==0.18.0.post0
 torch==2.4.1
 transformers==4.45.2
 umap-learn==0.5.6
-keras==2.11.0
 pip install tf-keras
