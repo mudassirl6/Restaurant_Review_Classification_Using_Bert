@@ -1,16 +1,5 @@
-bertopic==0.16.4
-hdbscan==0.8.39
-matplotlib==3.9.2
-nltk==3.9.1
-numpy==1.26.0             # Updated to ensure compatibility with TensorFlow
-pandas==2.1.1             # Use a slightly older version for numpy compatibility
-scikit-learn==1.5.2
-sentence-transformers==3.2.0
+pandas==2.2.3
 streamlit==1.39.0
-tensorflow==2.11.0 
-keras==2.11.0
+tensorflow==2.18.0
 textblob==0.18.0.post0
-torch==2.4.1
 transformers==4.45.2
-umap-learn==0.5.6
-
