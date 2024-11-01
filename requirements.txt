@@ -3,3 +3,4 @@ streamlit==1.39.0
 tensorflow==2.18.0
 textblob==0.18.0.post0
 transformers==4.45.2
+tf-keras
